@@ -1,0 +1,11 @@
+--> Created a repository in GitHub and then cloned it into local environment using the 
+    'git clone' command.
+
+--> Adding index.html file and given the boiler plate code .
+
+--> Already in use Prettier(Formatting) and Live Server (For live testing)
+
+--> We have created a nav bar in the top with a flex disply and added the styles for it .
+
+--> Created a game container div with info and container components
+
