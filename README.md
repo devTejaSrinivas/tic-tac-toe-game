@@ -18,5 +18,10 @@ Upgradations will be made to this project too .
    4)  Better way to use developer tools in browsers
    5)  Still better ways to implement this.
 
+# To use this 
+
+1) clone this repository into your local environment :
+    `git clone https://github.com/devTejaSrinivas/tic-tac-toe-game`
+2) Run the `index.html` file with either LiveServer extension or with opening it with browser.
 
 Thank you for visiting this repository.
